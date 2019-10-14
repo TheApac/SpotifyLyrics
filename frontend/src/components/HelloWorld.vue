@@ -91,8 +91,5 @@ export default {
     importantLinks: [],
     whatsNext: [],
   }),
-  computed: messages({
-    message:
-  })
 };
 </script>
